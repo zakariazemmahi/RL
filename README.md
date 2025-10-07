@@ -277,20 +277,6 @@ pip install torch
 
 ---
 
-## 👥 Auteurs
-
-- **Projet réalisé dans le cadre du cours d'Apprentissage par Renforcement**
-- **Université : [Votre Université]**
-- **Date : Octobre 2025**
-
----
-
-## 📄 Licence
-
-Ce projet est à usage éducatif uniquement.
-
----
-
 ## 📧 Contact
 
 Pour toute question concernant ce projet, veuillez contacter :
